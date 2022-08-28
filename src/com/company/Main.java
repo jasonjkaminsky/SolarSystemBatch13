@@ -15,6 +15,14 @@ public class Main {
         omaro.name="ferro";
         omaro.radius=1234455;
         omaro.color="pink";
+
+        //  Developing Planet2
+        Planet2 superwomen = new Planet2();
+        superwomen.size="766585857km";
+        superwomen.name="pliea";
+        superwomen.color="green";
+
+
     }
 
 }
